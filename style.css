@@ -1,0 +1,67 @@
+/* 
+    Created on : Apr 1, 2016, 12:33:26 PM
+    Author     : muradimanbayli
+*/
+
+*{
+    font-family: tahoma;
+}
+html,body,head,ul,li{
+    padding: 0px;
+    margin: 0px;
+}
+html,body{
+    height: 100%;
+}
+
+h1{
+    margin: 0px;
+}
+#wrapper-panel{
+    background-color: #333333;
+    height: 100%;
+}
+#main-info{
+    color: white;
+    width: 750px;
+    height: 200px;
+
+
+
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+}
+#main-info h1{
+    font-size: 72px;
+    letter-spacing: 2px;
+}
+#main-info p{
+    text-align: center;
+    font-size: 26px;
+}
+#main-info a {
+    color: white;
+}
+#contact{
+    font-size: 12px;
+    position: absolute;
+    bottom: 0px;
+    color: white;
+    padding: 5px;
+    padding-bottom: 10px;
+    width: 100%;
+}
+#menu{
+    color:white;
+    font-size: 12px;
+    padding: 5px;
+}
+#menu ul li {
+    display: inline;
+    margin-right: 10px;
+}
