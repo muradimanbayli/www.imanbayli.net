@@ -1,6 +1,6 @@
 /* 
     Created on : Apr 1, 2016, 12:33:26 PM
-    Author     : muradimanbayli
+    Author     : Murad R. Imanbayli
 */
 
 *{
@@ -23,17 +23,13 @@ h1{
 }
 #main-info{
     color: white;
-    width: 750px;
+    width: 700px;
     height: 200px;
-
-
-
     position: absolute;
     top:0;
     bottom: 0;
     left: 0;
     right: 0;
-
     margin: auto;
 }
 #main-info h1{
@@ -52,8 +48,8 @@ h1{
     position: absolute;
     bottom: 0px;
     color: white;
-    padding: 5px;
-    padding-bottom: 10px;
+   /*padding: 5px;*/
+   /* padding-bottom: 10px;*/
     width: 100%;
 }
 #menu{
